@@ -1,0 +1,1 @@
+![maven](https://github.com/vpithan/jokenpo/actions/workflows/maven.yml/badge.svg)
