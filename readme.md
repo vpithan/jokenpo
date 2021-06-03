@@ -11,3 +11,7 @@ Para executar:
  -  java -jar target/jokenpo-0.0.1.jar  {opcao1} {opcao2}
     - Ex: **java -jar target/jokenpo-0.0.1.jar pedra pedra**
 
+Opções:
+ - PEDRA
+ - PAPEL
+ - TESOURA
